@@ -1,5 +1,10 @@
 >[!WARNING]
 >This Fork is a simple copy. I am not the original author. The original repository: https://github.com/Xuoos/AnimeGamesProxy
+
+>[!NOTE]
+>Для русской версии см. [README-ru.md](README-ru.md)  
+>For English version, see [README-en.md](README-en.md)
+
 # AnimeGamesProxy - Anime Games Proxy Module for Android 
 
 ## Introduction 
