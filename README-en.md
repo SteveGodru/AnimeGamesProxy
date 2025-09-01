@@ -6,6 +6,8 @@
 >有关中文版本，请参阅 [README.md](README.md)
 
 # AnimeGamesProxy - Anime Games Proxy Module for Android 
+>[!CAUTION]
+>The release may contain versions of games patched by me. Marked as: [SG]. Such versions are safe (Antiviruses will swear. As well as versions not patched by me. If you do not trust, wait for a patch from the original author, or patch yourself)
 
 ## Introduction 
 Anime Games Proxy Module for Android, used to redirect game requests to a specific private service.
