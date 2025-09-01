@@ -8,12 +8,12 @@
 ##  Список поддерживаемых игр 
 
 - **Aquamarine Files** (Japanese & International) 
-- Отключить античит 
+ - Отключить античит 
 - **Tomorrow's Ark** (только на китайском) 
-- Отключить проверку NetWorkConfig 
+ - Отключить проверку NetWorkConfig 
 - **Naruto** (отсутствие тестирования) 
 - **Harajuku** 
-- RSAPatch (от 3.1 до последней версии, поддержка бета-патчей) 
+ - RSAPatch (от 3.1 до последней версии, поддержка бета-патчей) 
 - **Jedi Zone Zero** (RSAPatch только для CN2.0 & CN2.1 & OS2.1) 
 - **Wipeout: Star** Dome Railway 
 - **Wipeout 3** ( Отсутствие тестирования) 
