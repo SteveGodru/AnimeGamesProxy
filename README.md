@@ -1,5 +1,6 @@
 >[!WARNING]
 >这个叉子是一个简单的副本. 我不是原作者。 原始存储库: https://github.com/Xuoos/AnimeGamesProxy
+
 >[!NOTE]
 >Для русской версии см. [README-ru.md](README-ru.md)  
 >For English version, see [README-en.md](README-en.md)
