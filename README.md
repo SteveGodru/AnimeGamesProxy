@@ -1,5 +1,5 @@
 >[!WARNING]
->这个叉子是一个简单的副本. 我不是原作者。 原始存储库:
+>这个叉子是一个简单的副本. 我不是原作者。 原始存储库: https://github.com/Xuoos/AnimeGamesProxy
 # AnimeGamesProxy - 动漫游戏安卓代理模块
 
 ## 简介
