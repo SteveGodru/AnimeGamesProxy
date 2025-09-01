@@ -2,7 +2,7 @@
 >Данный Форк является простой копией. Я не являюсь оригинальным автором. Оригинальный репозиторий: https://github.com/Xuoos/AnimeGamesProxy
 
 >[!NOTE]
->Для русской версии см. [README-ru.md](README-ru.md)  
+>有关中文版本，请参阅 [README.md](README.md)  
 >For English version, see [README-en.md](README-en.md)
 
 # AnimeGamesProxy - Прокси-модуль для аниме-игр для Android
