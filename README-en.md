@@ -3,7 +3,7 @@
 
 >[!NOTE]
 >Для русской версии см. [README-ru.md](README-ru.md)  
->For English version, see [README-en.md](README-en.md)
+>有关中文版本，请参阅 [README.md](README.md)
 
 # AnimeGamesProxy - Anime Games Proxy Module for Android 
 
